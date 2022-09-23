@@ -1,0 +1,26 @@
+title: MIDEAST 203 FUN
+email: UNIQUE_NAME@umich.edu
+description: >- # this means to ignore newlines until "baseurl:"
+  A semester-long project to explore the sport of soccer in the Middle East
+baseurl: "" # the subpath of the site, e.g. /blog
+url: "" # the base hostname & protocol for the site, e.g. http://example.com
+twitter_username: TO BE UPDATED
+github_username: TO BE UPDATED
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-redirect-from
+
+exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
