@@ -2,7 +2,7 @@ title: MIDEAST 203 FUN
 email: UNIQUE_NAME@umich.edu
 description: >- # this means to ignore newlines until "baseurl:"
   A semester-long project to explore the sport of soccer in the Middle East
-baseurl: "" # the subpath of the site, e.g. /blog
+baseurl: "/me203fun" # the subpath of the site, e.g. /blog
 url: "" # the base hostname & protocol for the site, e.g. http://example.com
 twitter_username: TO BE UPDATED
 github_username: TO BE UPDATED
