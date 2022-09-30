@@ -1,7 +1,7 @@
 ---
 layout: post
 title: James Rodriguez | Al-Rayyan SC (2021-22)
-permalink: /james-rodriguez
+permalink: /people/james-rodriguez
 tag: people
 ---
 
