@@ -10,7 +10,7 @@ Moving on to [**Al-Rayyan SC**](https://alrayyansc.qa/?lang=en "a Qatar website"
 ![Baklava]({{site.baseurl}}/images/western_stars_east/baklava.jpg)
 *See the recipe of Baklava from [Turkish Food Chef](https://turkishfoodchef.com/baklava-original-turkish-baklava-recipe/){:target="_blank"}*
 
-The sharp contrast is his absense to the pitch. For one reason or another, the 2014 World Cup Golden Boot winner had only played **14 matches** for the Qatari club during the entire [2021-22 season](https://www.transfermarkt.us/james-rodriguez/leistungsdaten/spieler/88103/plus/0?saison=2021){:target="_blank"}.
+The sharp contrast is his absense from the pitch. For one reason or another, the 2014 World Cup Golden Boot winner had only played **14 matches** for the Qatari club out of the 33 they had during the entire [2021-22 season (September 2021 - April 2022)](https://www.transfermarkt.us/james-rodriguez/leistungsdaten/spieler/88103/plus/0?saison=2021){:target="_blank"}.
 
 In the new season of 2022-23, Rodriguez's relationship with Al-Rayyan SC seems [further broken](https://www.archyde.com/james-rodriguez-smiles-as-al-rayyan-goes-to-the-bottom-of-the-table/){:target="_blank"} as the 30-year-old sought to return to a European league. Eventually, he [joined Olympiakos](https://www.espn.com/soccer/soccer-transfers/story/4747224/ex-real-madrid-star-james-rodriguez-joins-greek-champions-olympiakos){:target="_blank"} in Greece in September.
 
