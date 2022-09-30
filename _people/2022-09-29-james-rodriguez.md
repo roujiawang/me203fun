@@ -1,11 +1,11 @@
 ---
 layout: post
-title: James Rodriguez | Al-Rayyan SC (2021-22)
+title: James Rodriguez | Al Rayyan SC (2021-22)
 permalink: /people/james-rodriguez
-tag: people
+tag: western-stars-east
 ---
 
-Moving on to [**Al-Rayyan SC**](https://alrayyansc.qa/?lang=en "a Qatar website"){:target="_blank"} from middle-class Premier League side Everton after departure from the privilaged Real Madrid, James Rodriguez's journey to the Middle East has been broadly recognized by media as [a worse stage in his fall](https://www.goal.com/en-us/news/fall-james-rodriguez-qatar-switch-new-low-colombian-icon/o0rbnzaouorj10k4qd7z5gfda){:target="_blank"}. Nevertheless, the attacking midfield may have had quite a social life in the Gulf region. For instance, in April, 2022, he seemed to quite enjoy himself when his visit to a restaurant at Riyadh (the capital of Saudi Arabia) was [videoed](https://www.tiktok.com/@ebudiyebiri/video/7087273422190890242 "redirect to TikTok video"){:target="_blank"} by Turkish chef Ebubekir Çakmak. The Columbian was served a [**Baklava**](https://en.wikipedia.org/wiki/Baklava){:target="_blank"}, a famous Turkish dissert. 
+Moving on to [**Al Rayyan SC**](https://alrayyansc.qa/?lang=en "a Qatar website"){:target="_blank"} from middle-class Premier League side Everton after departure from the privilaged Real Madrid, James Rodriguez's journey to the Middle East has been broadly recognized by media as [a worse stage in his fall](https://www.goal.com/en-us/news/fall-james-rodriguez-qatar-switch-new-low-colombian-icon/o0rbnzaouorj10k4qd7z5gfda){:target="_blank"}. Nevertheless, the attacking midfield may have had quite a social life in the Gulf region. For instance, in April, 2022, he seemed to quite enjoy himself when his visit to a restaurant at Riyadh (the capital of Saudi Arabia) was [videoed](https://www.tiktok.com/@ebudiyebiri/video/7087273422190890242 "redirect to TikTok video"){:target="_blank"} by Turkish chef Ebubekir Çakmak. The Columbian was served a [**Baklava**](https://en.wikipedia.org/wiki/Baklava){:target="_blank"}, a famous Turkish dissert. 
 
 ![Baklava]({{site.baseurl}}/images/western_stars_east/baklava.jpg)
 *See the recipe of Baklava from [Turkish Food Chef](https://turkishfoodchef.com/baklava-original-turkish-baklava-recipe/){:target="_blank"}*
