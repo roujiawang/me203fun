@@ -4,7 +4,7 @@ title: Xavier Hernández Creus | FC Barcelona Coach (2021 - )
 permalink: /people/Xavier-Hernández-Creus
 tag: western-stars-east
 ---
-![Xavier Hernández Creus]({{site.baseurl}}/images/eastern-stars-west/Xavi.jpg)
+![Xavier Hernández Creus]({{site.baseurl}}/images/western_stars_east/Xavi.jpg)
 *Image source: wikipedia*
 
 Xavier Hernández Creus was born 25 January 1992 and was an former player who played an midfielder. 
