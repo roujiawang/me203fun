@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Al-Shehri [Beira-Mar(2012-13)] and Al-Dawsari [Villarreal (2018)]
-permalink: /people/Mohamed-Salah
+permalink: /people/Al-Shehri-and-Al-Dawsari
 tag: eastern-stars-west
 ---
 
