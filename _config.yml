@@ -16,6 +16,8 @@ plugins:
 collections:
   people:
     output: true
+  club:
+    output: true
 
 exclude:
 #   - .sass-cache/
